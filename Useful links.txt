@@ -4,3 +4,7 @@ https://qa-ajb.signin.aws.amazon.com/console
 Course evaluation
 https://evaluation.qa.com/Login.aspx?course=AEDXDDO4M1&pin=4649183-9
 
+Name / topic picker (looged in via Google 48351)
+https://wheelofnames.com/#
+
+
