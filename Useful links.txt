@@ -7,4 +7,11 @@ https://evaluation.qa.com/Login.aspx?course=AEDXDDO4M1&pin=4649183-9
 Name / topic picker (looged in via Google 48351)
 https://wheelofnames.com/#
 
-
+Continuous deployment articles
+https://engineering.linkedin.com/blog/2019/learnings-from-the-journey-to-continuous-deployment
+https://netflixtechblog.com/deploying-the-netflix-api-79b6176cc3f0
+https://research.fb.com/wp-content/uploads/2017/02/fse-rossi.pdf
+https://www.infoq.com/news/2014/03/etsy-deploy-50-times-a-day/
+https://medium.com/compass-true-north/our-journey-to-continuous-delivery-for-a-300-person-engineering-team-at-compass-3edeb3b49d86
+https://crunchtech.medium.com/our-journey-to-continuous-deployment-part-1-625ab9ae7d41
+https://engineering.fb.com/2017/08/31/web/rapid-release-at-massive-scale/
