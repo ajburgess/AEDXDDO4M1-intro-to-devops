@@ -1,0 +1,4 @@
+git clone https://github.com/qa-apprenticeships/jenkins-scripts
+cd jenkins-scripts
+chmod +x install-jenkins.sh
+./install-jenkins.sh

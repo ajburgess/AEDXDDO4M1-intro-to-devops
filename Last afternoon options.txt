@@ -1,0 +1,12 @@
+Options...
+
+[Evaluation form]
+
+- Finish now
+- Carry on with Heroku stuff
+- Have lunch, then come back and carry on with Heroku stuff
+- More Jenkins stuff (can switch EC2 instances back on if needed)
+- Work independently (heroku, reflection task, apply planning, profile, etc)
+- Re-join webex later on if any questions etc...
+
+I'll keep webex open all afternoon and am available to support in any way...
